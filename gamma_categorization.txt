@@ -1,0 +1,12 @@
+Design Pattern are typically split into three categories
+
+1. Creational Pattern:
+    -> deals with the creation(construction) of objects
+
+2. Structural Pattern:
+    -> concerned with the structure (eg. class members)
+    -> Many pattern are wappers that mimic the underlying class interface
+    -> stress the importance of good API design
+
+3. Behavioral Pattern:
+    -> They are all different; no central theme
