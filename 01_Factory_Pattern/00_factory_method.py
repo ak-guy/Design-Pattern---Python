@@ -4,7 +4,9 @@ for creating objects in a superclass, but allows subclasses to alter the
 type of objects that will be created.
 
 
-Reference -> https://www.youtube.com/watch?v=EcFVTgRHJLM&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc&index=4
+Reference -> 
+1. https://www.youtube.com/watch?v=EcFVTgRHJLM&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc&index=4
+2. https://github.com/RefactoringGuru/design-patterns-python/blob/main/src/FactoryMethod/Conceptual/main.py
 '''
 
 from abc import ABC, abstractmethod
